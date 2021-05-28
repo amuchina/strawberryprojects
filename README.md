@@ -1,4 +1,4 @@
-# strawberryprojects
+# strawberryprojects🍓
 just my failed projects ;)
 
 - Calculator:
