@@ -8,9 +8,9 @@ Forgive me if there are some bugs or something incorrect, this is my first proje
 Hoping you like it.
 Contact me for any questions :)
 
-v. 1.0:
-- Basic calculations
-- Scientific calculations
-- Not concatenated operations
-- Break the program after 1 operations
-- Type "help" to show available functions
+  v. 1.0:
+  - Basic calculations
+  - Scientific calculations
+  - Not concatenated operations
+  - Break the program after 1 operations
+  - Type "help" to show available functions
